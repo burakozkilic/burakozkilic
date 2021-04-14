@@ -6,4 +6,4 @@
 ✔ twitter; [@burakozkilic](https://twitter.com/burakozkilic)
 📧 mail; ichburak@yaani.com
 
-👀 I’m currently learning C, C#, Dart
+👀 I’m currently learning C, C#, HTML5, CSS3, JavaScript
