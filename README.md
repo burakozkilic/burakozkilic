@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>🌱 I’m currently learning Python  </h2> <br> 
+🌱 I’m currently learning Python <br> 
 
 
 ## 🌐 Socials:
