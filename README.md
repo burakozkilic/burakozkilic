@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python, C#, Java<br>
+🌱 I’m currently learning Python <br>
 
 
 ## 🌐 Socials:
