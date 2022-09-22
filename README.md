@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ichburak) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozkilicburak)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/burakozkilic) 
-[![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://yaani.com/ichburak) 
+[![Twitter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://yaanimail.com/ichburak) 
 [![Steam](https://img.shields.io/badge/Steam-%2320232a.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198809949395/)
 
 # 💻 Tech Stack:
