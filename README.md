@@ -26,7 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=burakozkilic&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🤡 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=burakozkilic&icon=2&color=1)](https://visitcount.itsvg.in)
