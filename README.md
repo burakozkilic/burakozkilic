@@ -3,10 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ichburak) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozkilicburak)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/burakozkilic) 
-[![Steam](https://img.shields.io/badge/Steam-%2320232a.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198809949395/)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -25,8 +22,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=burakozkilic&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=burakozkilic&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🤡 Random Dev Meme
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=burakozkilic&icon=2&color=1)](https://visitcount.itsvg.in)
